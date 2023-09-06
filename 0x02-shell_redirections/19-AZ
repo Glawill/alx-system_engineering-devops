@@ -1,2 +1,2 @@
 #!/bin/bash
-tra "A" "z" | "c" "e"
+tra 'Ac' 'Ze'
